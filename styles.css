@@ -131,18 +131,23 @@ h2{
   padding: 20px;
   margin: 10px;
   width: 320px;
-  
+
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .project h2 {
   text-align: left;
   margin-top: 0;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
+}
+
+.project .caption{
+  color: #888;
 }
 
 .project img{
   width: 320px;
+  margin-top: 6px;
   margin-bottom: 10px;
   border: 1px solid #ccc; /* Add border */
 }
