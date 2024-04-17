@@ -131,6 +131,7 @@ h2{
   padding: 20px;
   margin: 10px;
   width: 320px;
+  
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -155,6 +156,11 @@ h2{
   text-decoration: none;
   border-radius: 3px;
   transition: background-color 0.3s;
+}
+
+.doc-btn {
+  background-color: blue; /* Change to your desired color */
+  /* Add any other styles you want for the button */
 }
 
 .btn:hover {
